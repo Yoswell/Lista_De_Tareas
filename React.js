@@ -16,7 +16,12 @@ agregarButton.addEventListener("click", (e) => {
     } else {
         p.textContent = text;
 
+        const miInput = document.createElement("input");
+        miInput.setAttribute("type", "checkbox");
+        miInput.className = "miInput";
+        
         li.appendChild(p);
+        li.appendChild(miInput);
         li.appendChild(addDeleteBtn());
         list.appendChild(li);
 
