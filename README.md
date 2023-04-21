@@ -1,3 +1,3 @@
 Es una app que permite guardar tareas pendientes
 Esa hecha con html, css y javascript
-# lista-de-tareas![Captura de pantalla (26)](https://user-images.githubusercontent.com/113799193/197634354-244d023d-0852-485d-b4f3-0a9d3600e771.png)
+![listin](https://user-images.githubusercontent.com/113799193/233512540-a7ad8882-54dc-4348-afb9-11f1c80c9068.png)
